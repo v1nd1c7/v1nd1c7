@@ -15,7 +15,7 @@
 
 ### 👋 About Me
 
-Hey, I'm **Nikola Perić**, aka **v1nd1c7** – a cybersecurity specialist, red teamer, and hacker from Serbia.
+Hey, I'm **v1nd1c7** – a cybersecurity specialist, red teamer, and hacker from Serbia.
 
 🛠 I work across offensive security, robotics programming, and embedded systems.  
 🧠 I'm obsessed with mastering the intersection of hardware, software, and wetware.  
@@ -26,7 +26,7 @@ Hey, I'm **Nikola Perić**, aka **v1nd1c7** – a cybersecurity specialist, red 
 ### ⚔️ Skills
 
 - 🩸 Offensive Security / Red Teaming  
-- 🐧 Linux (bare metal), Bash, Python  
+- 🐧 Linux (various distros), Bash, Python  
 - 🤖 Industrial Robotics: Panasonic DTPS & FANUC RoboGuide  
 - 🧬 Embedded Hardware Exploitation  
 - 🔓 Lockpicking / RF / NFC / RFID Security  
