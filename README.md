@@ -46,7 +46,7 @@ Hey, I'm **v1nd1c7** – a cybersecurity specialist, red teamer, and hacker from
 ### 💼 Projects
 
 - 🖥 [Terminal-style Portfolio](https://v1nd1c7.github.io)  
-- 🧰 Hosting Lockpicking Hackerspace @ **BalcCon**  
+- 🧰 Hosting Lockpicking Hackerspace @ **BalcCon 2k25**  
 - 🛰 Presenting **RF/NFC/RFID** security @ **BalcCon 2k26**  
 - 🔧 Bug Bounty findings (coming soon)
 
