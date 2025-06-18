@@ -15,7 +15,7 @@
 
 ### 👋 About Me
 
-Hey, I'm **v1nd1c7** – a cybersecurity specialist, red teamer, and hacker from Serbia.
+Hey, I'm **v1nd1c7** – a cybersecurity specialist, red teamer, and ethical hacker from Serbia.
 
 🛠 I work across offensive security, robotics programming, and embedded systems.  
 🧠 I'm obsessed with mastering the intersection of hardware, software, and wetware.  
