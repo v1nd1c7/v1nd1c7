@@ -68,7 +68,7 @@ Whether it’s software, hardware, or human behavior – I analyze, break, impro
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-v1nd1c7-black?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/npcybersec)  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-v1nd1c7-black?logo=tryhackme&style=flat-square)](https://tryhackme.com/p/v1nd1c7)  
 [![Twitter](https://img.shields.io/badge/Twitter-@_kvantni_-black?logo=twitter&style=flat-square)](https://x.com/_kvantni_)  
-📧 pericn12@protonmail.com
+📧 v1nd1c7@proton.me
 
 ---
 
