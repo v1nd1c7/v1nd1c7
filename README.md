@@ -37,7 +37,9 @@ Hey, I'm **v1nd1c7** – a cybersecurity specialist, red teamer, and ethical hac
 
 ### 📜 Certifications
 
-- ✅ Google Cybersecurity Professional Certificate  
+- ✅ Google Cybersecurity Professional Certificate
+- 🔐 HTB Certified Penetration Testing Specialist CPTS (in progress)
+- 🔐 Certified Red Team Analyst CRTA (in progress)
 - 🔐 CompTIA Security+ (in progress)  
 - 📂 TryHackMe Learning Paths & Badges
 
