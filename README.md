@@ -32,6 +32,7 @@ Hey, I'm **v1nd1c7** – a cybersecurity specialist, red teamer, and ethical hac
 - 🔓 Lockpicking / RF / NFC / RFID Security  
 - 🌐 OSINT, Enumeration, Post-Exploitation  
 - 💣 TryHackMe Top 1%
+- 🚩 Captain at xploitra CTF team
 
 ---
 
