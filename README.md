@@ -40,7 +40,7 @@ Hey, I'm **v1nd1c7** – a cybersecurity specialist, red teamer, and ethical hac
 - ✅ Google Cybersecurity Professional Certificate
 - 🔐 HTB Certified Penetration Testing Specialist CPTS (in progress)
 - 🔐 Certified Red Team Analyst CRTA (in progress)
-- 🔐 CompTIA Security+ (in progress)  
+- 🔐 OSCP (right after CPTS & CRTA)
 - 📂 TryHackMe Learning Paths & Badges
 
 ---
@@ -48,10 +48,10 @@ Hey, I'm **v1nd1c7** – a cybersecurity specialist, red teamer, and ethical hac
 ### 💼 Projects
 
 - 🖥 [Terminal-style Portfolio](https://v1nd1c7.github.io)  
-- 🧰 Hosting Lockpicking Hackerspace @ **BalcCon 2k25**  
+- 🧰 Hosted Lockpicking Hackerspace @ **BalcCon 2k25**  
 - 🛰 Presenting **RF/NFC/RFID** security @ **BalcCon 2k26**  
-- 🔧 Bug Bounty findings (coming soon)
-
+- 🔧 Building a Pi Hole at home
+- 🔧 Builded a working NetHunter phone on OnePlus7 (tutorial pending)
 ---
 
 ### 🧠 Philosophy
