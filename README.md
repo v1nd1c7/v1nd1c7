@@ -30,9 +30,9 @@ Offensive security researcher focused on red teaming, penetration testing, and t
 
 **TryHackMe Stats:**
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/v1nd1c7.png" alt="TryHackMe Badge">
+[![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/v1nd1c7.png)](https://tryhackme.com/p/v1nd1c7)
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_1%25-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/v1nd1c7)
+*Dynamic badge - updates automatically with progress*
 
 ---
 
