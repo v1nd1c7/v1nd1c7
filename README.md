@@ -1,76 +1,129 @@
-<p align="center">
-  <img src="./glitch.png" alt="v1nd1c7 logo" width="200"/>
-</p>
-
 # v1nd1c7
 
-> _“Hack the planet. Secure the future.”_
+```
+██╗   ██╗ ██╗███╗   ██╗██████╗  ██╗ ██████╗███████╗
+██║   ██║███║████╗  ██║██╔══██╗███║██╔════╝╚════██║
+██║   ██║╚██║██╔██╗ ██║██║  ██║╚██║██║         ██╔╝
+╚██╗ ██╔╝ ██║██║╚██╗██║██║  ██║ ██║██║        ██╔╝ 
+ ╚████╔╝  ██║██║ ╚████║██████╔╝ ██║╚██████╗   ██║  
+  ╚═══╝   ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═╝ ╚═════╝   ╚═╝  
+```
 
-![Profile views](https://komarev.com/ghpvc/?username=v1nd1c7&color=green&style=flat-square)
-![OS](https://img.shields.io/badge/linux-fedora-black?style=flat-square&logo=linux)
-![Editor](https://img.shields.io/badge/neovim-in_use-black?style=flat-square&logo=neovim)
-![Hacker Style](https://img.shields.io/badge/style-terminal-black?style=flat-square)
-
----
-
-### 👋 About Me
-
-Hey, I'm **v1nd1c7** – a cybersecurity specialist, red teamer, and ethical hacker from Serbia.
-
-🛠 I work across offensive security, robotics programming, and embedded systems.  
-🧠 I'm obsessed with mastering the intersection of hardware, software, and wetware.  
-🌍 I'm currently building the first **Hackerspace in Kragujevac**, Serbia.
+**Nikola Perić** | Cybersecurity Specialist | Red Teamer | Behavioral Profiling  
+📍 Kragujevac, Serbia
 
 ---
 
-### ⚔️ Skills
+## $ whoami
 
-- 🩸 Offensive Security / Red Teaming  
-- 🐧 Linux (various distros), Bash, Python  
-- 🤖 Industrial Robotics: Panasonic DTPS & FANUC RoboGuide  
-- 🧬 Embedded Hardware Exploitation  
-- 🔓 Lockpicking / RF / NFC / RFID Security  
-- 🌐 OSINT, Enumeration, Post-Exploitation  
-- 💣 TryHackMe Top 1%
-- 🚩 Captain at xploitra CTF team
+Offensive security researcher focused on red teaming, penetration testing, and tactical behavioral analysis. Currently building Serbia's cybersecurity community through education and hands-on security research.
 
----
+**Core Competencies:**
+- Red Team Operations & Adversary Simulation
+- Penetration Testing (Network, Web, Wireless, Physical)
+- Behavioral Profiling & Social Engineering Defense
+- Industrial Robotics Programming (Panasonic DTPS, FANUC RoboGuide)
+- Hardware Security & Embedded Systems Exploitation
+- RF/NFC/RFID Security Research
 
-### 📜 Certifications
+**Captain** @ xploitra CTF Team
 
-- ✅ Google Cybersecurity Professional Certificate
-- 🔐 HTB Certified Penetration Testing Specialist CPTS (in progress)
-- 🔐 Certified Red Team Analyst CRTA (in progress)
-- 🔐 OSCP (right after CPTS & CRTA)
-- 📂 TryHackMe Learning Paths & Badges
+**TryHackMe Stats:**
 
----
+<img src="https://tryhackme-badges.s3.amazonaws.com/v1nd1c7.png" alt="TryHackMe Badge">
 
-### 💼 Projects
-
-- 🖥 [Terminal-style Portfolio](https://v1nd1c7.github.io)  
-- 🧰 Hosted Lockpicking Hackerspace @ **BalcCon 2k25**  
-- 🛰 Presenting **RF/NFC/RFID** security @ **BalcCon 2k26**  
-- 🔧 Building a Pi Hole at home
-- 🔧 Builded a working NetHunter phone on OnePlus7 (tutorial pending)
----
-
-### 🧠 Philosophy
-
-> _“I don’t just hack systems. I reverse-engineer reality.”_
-
-I’m not here to follow trends. I’m here to learn everything – deeply.  
-Whether it’s software, hardware, or human behavior – I analyze, break, improve, and evolve.
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_1%25-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/v1nd1c7)
 
 ---
 
-### 🌐 Connect
+## $ cat certifications.txt
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-v1nd1c7-black?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/npcybersec)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-v1nd1c7-black?logo=tryhackme&style=flat-square)](https://tryhackme.com/p/v1nd1c7)  
-[![Twitter](https://img.shields.io/badge/Twitter-@_kvantni_-black?logo=twitter&style=flat-square)](https://x.com/_kvantni_)  
+```
+[COMPLETED]
+✓ ISO/IEC 27001:2022 Lead Auditor (Mastermind)
+✓ Google Cybersecurity Professional Certificate
+✓ Cyberwarfare CRTA (Exam Pending)
+✓ TryHackMe Learning Paths
+
+[IN PROGRESS]
+⟳ HTB Certified Penetration Testing Specialist (CPTS)
+
+[PLANNED 2026]
+□ Offensive Security Certified Professional (OSCP)
+□ Advanced Red Team Operations
+```
+
+---
+
+## $ ls -la projects/
+
+**Community Building**
+- 🏢 Founding Kragujevac's first Hackerspace
+- 🎤 Hosted lockpicking security workshop @ BalcCon 2k25
+- 📡 Scheduled to present RF/RFID/NFC security @ BalcCon 2k26
+
+**Security Research**
+- 🔓 Physical security & lockpicking analysis
+- 📱 Kali NetHunter deployment on OnePlus 7
+- 🛰️ Meshtastic decentralized mesh network deployment (planned)
+- 🔧 Custom Flipper Zero firmware development
+
+**Portfolio**
+- 💻 [Terminal-style portfolio](https://v1nd1c7.github.io) - Retro CRT interface
+
+---
+
+## $ cat /etc/motd
+
+```
+"Understand the system.
+ Outsmart the threat.
+ Act with silent precision."
+```
+
+Security isn't about tools—it's about mindset. Every system has vulnerabilities. Every person has tells. The goal is to see what others miss and think three steps ahead.
+
+---
+
+## $ cat contact.info
+
+```
 📧 v1nd1c7@proton.me
+🔗 linkedin.com/in/npcybersec
+🎯 tryhackme.com/p/v1nd1c7
+🐦 x.com/_kvantni_
+```
+
+**PGP:** Available upon request  
+**Signal:** Available upon request
+
+For security research collaboration or vulnerability disclosure, encrypted communication preferred.
 
 ---
 
-> ⚠️ _No flashy animations. No corporate bloat. Just raw skill and sharp focus._
+## $ cat interests.log
+
+**Technical:** Hardware hacking | SDR (HackRF One, Flipper Zero) | Physical security | Radio amateur operations | Embedded systems | Robotics automation
+
+**Strategic:** Chess | Go | Behavioral analysis | OSINT | Social engineering countermeasures
+
+**Culture:** Cyberpunk philosophy | Anime (Ghost in the Shell, Serial Experiments Lain, Psycho-Pass) | Electronic music | Longboarding
+
+---
+
+## $ uptime
+
+```
+System online since: [REDACTED]
+Active projects: 7
+CTF flags captured: 500+
+Coffee consumed: ∞
+```
+
+---
+
+```
+root@v1nd1c7:~# echo "The best defense is understanding the offense."
+The best defense is understanding the offense.
+root@v1nd1c7:~# █
+```
