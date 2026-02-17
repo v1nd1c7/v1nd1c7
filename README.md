@@ -26,13 +26,10 @@ Offensive security researcher focused on red teaming, penetration testing, and t
 - Hardware Security & Embedded Systems Exploitation
 - RF/NFC/RFID Security Research
 
-**Captain** @ xploitra CTF Team
+**Captain** @ xploitra CTF Team  
+**TryHackMe** Top 1% | 600+ Rooms Completed
 
-**TryHackMe Stats:**
-
-<a href="https://tryhackme.com/p/v1nd1c7" target="_blank">
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=888033" alt="TryHackMe Stats" />
-</a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/v1nd1c7.png" alt="TryHackMe Badge">
 
 ---
 
@@ -121,3 +118,4 @@ Coffee consumed: ∞
 ```
 
 ---
+
