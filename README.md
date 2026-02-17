@@ -30,9 +30,9 @@ Offensive security researcher focused on red teaming, penetration testing, and t
 
 **TryHackMe Stats:**
 
-[![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/v1nd1c7.png)](https://tryhackme.com/p/v1nd1c7)
-
-*Dynamic badge - updates automatically with progress*
+<a href="https://tryhackme.com/p/v1nd1c7" target="_blank">
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=888033" alt="TryHackMe Stats" />
+</a>
 
 ---
 
@@ -121,9 +121,3 @@ Coffee consumed: ∞
 ```
 
 ---
-
-```
-root@v1nd1c7:~# echo "The best defense is understanding the offense."
-The best defense is understanding the offense.
-root@v1nd1c7:~# █
-```
