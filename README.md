@@ -85,7 +85,7 @@ Security isn't about tools—it's about mindset. Every system has vulnerabilitie
 ## $ cat contact.info
 
 ```
-📧 v1nd1c7@proton.me
+📧 pericn12@protonmail.com
 🔗 linkedin.com/in/npcybersec
 🎯 tryhackme.com/p/v1nd1c7
 🐦 x.com/_kvantni_
