@@ -9,7 +9,7 @@
   ╚═══╝   ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═╝ ╚═════╝   ╚═╝  
 ```
 
-**Nikola Perić** | Cybersecurity Specialist | Red Teamer | Behavioral Profiling  
+ Cybersecurity Specialist | Red Teamer | Behavioral Profiling  
 📍 Kragujevac, Serbia
 
 ---
